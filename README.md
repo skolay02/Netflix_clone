@@ -5,8 +5,9 @@ Note: This site is only for laptops and desktops, a mobile user must use Desktop
 <h1>Visit the site by clicking on the below link:</h1>
 https://skolay02.github.io/Netflix_clone/
 
-![1](https://github.com/user-attachments/assets/7b30191f-d78a-4105-9f8e-47351deb4995)
-![2](https://github.com/user-attachments/assets/9f31f272-48cb-49cd-893d-c7cd59b2cb09)
-![3](https://github.com/user-attachments/assets/6b08cfa5-9e92-41a4-a72d-3b69b07eafd4)
-![4](https://github.com/user-attachments/assets/71612054-08cf-4be6-afed-b3ee2e1cf370)
-![5](https://github.com/user-attachments/assets/a3c1d77a-e39f-43fb-b13d-c25aa7139ff8)
+![1](https://github.com/user-attachments/assets/69b27442-4a7a-4dca-ae6e-1b3b8e45ce1b)
+![2](https://github.com/user-attachments/assets/45f93cfa-d48e-46e7-a197-bbd72d74b862)
+![3](https://github.com/user-attachments/assets/7c8268db-3fb2-4e76-870a-0e9091dc4384)
+![4](https://github.com/user-attachments/assets/ac53f2b1-9449-4532-8cb8-a27b856803a7)
+![5](https://github.com/user-attachments/assets/06922136-58c3-4707-9be7-5eeedb233197)
+
